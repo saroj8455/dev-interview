@@ -9,3 +9,6 @@ path,joi,jsonwebtoken
 
 # run local db
 C:\Program Files\MongoDB\Server\7.0\bin>mongod.exe
+
+# set path to run mongod anywhere in your system in user or system path
+C:\Program Files\MongoDB\Server\7.0\bin
